@@ -1,7 +1,6 @@
 """Send greetings."""
 
 import time
-
 import arrow
 
 def greet(tz, repeat=1, interval=3):
