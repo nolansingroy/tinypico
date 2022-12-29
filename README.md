@@ -2,11 +2,9 @@
 # Purpose #
         * Micro test of the eps32 pico d4 MCU to drive hardware cost down by 10X 
         * Pass test when MCU emulates all current taptoreurnt pi 4b functionality 
-
 # Installation #
         * Git clone repo
         * Install python poetry  pip3 install poetry 
-        * Rm package.lock
         * Poetry install
         * Vscode plugin Pycom.pymakr
         * USBC to UART development 
@@ -49,17 +47,15 @@
 
 # Software Requirements 
     * MQTT network handler
-    * 
-
 
 # OTA Updates 
 Free Private repo approach
         * (Ugit approach)[https://github.com/turfptax/ugit]
 
 
-# Testing 
-tinypico/tests
-
+# Testing # 
+        *  `poetry run pytest tests`
+        * https://gist.github.com/CarlosDomingues/b88df15749af23a463148bd2c2b9b3fb
 
 # Hardware Requirments
 
