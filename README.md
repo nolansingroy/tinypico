@@ -12,8 +12,7 @@
 # Package Management 
     - [x] Python Poetry
         * https://python-poetry.org/docs/pyproject/#documentation
-    - [ ] upip || mpip
-        * Git clone repo
+    - [x] upip || mpip
 
 # Development Test
     - [x] Cost Analysis Spread Sheet
@@ -29,19 +28,19 @@
         * https://python-poetry.org/docs/basic-usage/
     - [x] Micropython package dependency management 
         * https://docs.micropython.org/en/latest/reference/packages.html#installing-packages-with-mpremote
-    * OTA updates
+    * [x] OTA updates
         * Ugit approach
         * https://toit.io/pricing
         * https://thinx.cloud/
-    * NFC 
+    * [x] NFC 
         * https://github.com/gretel/micropython-pn532
-    * Audio 
+    * [x] Audio 
         * MAX98357A
-    * Espressif Frameworks
+    * [x] Espressif Frameworks
         * https://docs.espressif.com/projects/esp-idf/en/latest/esp32/libraries-and-frameworks/cloud-frameworks.html
         
-    * AWS IoT Core metrics MQTT
-    * Google Cloud pub / sub 
+    * [x] AWS IoT Core metrics MQTT
+    * [x] Google Cloud pub / sub 
         * Network testiing 
             * On res where ping failed thread fn to turn on orange light 
 
