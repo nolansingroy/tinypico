@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "tinypico",
+			"path": "."
+		},
+		{
+			"name": "serial://dev/tty.usbserial-023874D8",
+			"uri": "serial://%2fdev%2ftty.usbserial-023874d8/"
+		},
+		{
+			"name": "serial://dev/tty.usbserial-023874D8",
+			"uri": "serial://%2fdev%2ftty.usbserial-023874d8/"
+		}
+	]
+}

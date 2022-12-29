@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "tinypico"
+version = "0.1.0"
+description = "esp32 pico d4 dual core 240mhz"
+authors = ["Nolan Singroy <nolansingroy@gmail.com>"]
+readme = "README.md"
+documentation = "https://python-poetry.org/docs/"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pendulum = "^2.1.2"
+requests = "^2.28.1"
+rshell = "^0.0.31"
+adafruit-ampy = "^1.1.0"
+esptool = "^4.4"
+arrow = "^1.2.3"
+fire = "^0.5.0"
+
+[tool.poetry.scripts]
+greet = "src/greet"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
